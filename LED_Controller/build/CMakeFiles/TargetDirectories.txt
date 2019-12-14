@@ -1,0 +1,3 @@
+/home/pi/cse2100/GUI_Teensy/LED_Controller/build/CMakeFiles/rebuild_cache.dir
+/home/pi/cse2100/GUI_Teensy/LED_Controller/build/CMakeFiles/edit_cache.dir
+/home/pi/cse2100/GUI_Teensy/LED_Controller/build/CMakeFiles/TeensyControl.dir
