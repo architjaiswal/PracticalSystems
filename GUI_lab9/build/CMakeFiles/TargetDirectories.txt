@@ -1,0 +1,3 @@
+/home/pi/Desktop/GUI_lab9/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/GUI_lab9/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/GUI_lab9/build/CMakeFiles/Lab_9_GUI.dir
